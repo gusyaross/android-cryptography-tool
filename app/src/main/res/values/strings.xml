@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">CryptoProject</string>
+    <string name="encrypt">Зашифровать</string>
+    <string name="decrypt">Дешифровать</string>
+    <string name="input_hide">Введите текст</string>
+    <string name="output_text">Вывод результата</string>
+    <string name="menu_text">Выбрать алгоритм</string>
+    <string name="input_key_text">Введите ключ</string>
+    <string name="access_input">Подтвердить</string>
+    <string name="main_label">Pocket crypto tools</string>
+    <string name="key_input_label">Input key</string>
+    <string name="base64">Base64</string>
+    <string name="vigenere">Шифр Виженера</string>
+    <string name="aes">AES шифрование</string>
+    <string name="caesar">Шифр Цезаря</string>
+    <string name="button_read_file">Читать с файла</string>
+    <string name="button_write_file">Запись в файл</string>
+    <string name="button_go_photo">Работа с изображениями</string>
+    <string name="button_ext">Извлечь текст</string>
+    <string name="button_hid">Внедрить текст</string>
+    <string name="hint1">Введите текст, который хотите внедрить</string>
+    <string name="hint2">Здесь будет результат</string>
+</resources>
